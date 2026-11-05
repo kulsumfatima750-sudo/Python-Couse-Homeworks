@@ -1,4 +1,4 @@
-length = float(input("enter the length of the zander in centimeter: "))
+length = float(input("enter the length of the fish in centimeter: "))
 
 if length < 42:
 
